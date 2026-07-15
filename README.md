@@ -167,10 +167,13 @@ I'm always interested in collaborating on:
 
 ---
 
-# 🏆 Certifications
-
-* Python Essentials 1
-* Python Essentials 2
+## 🏆 Certifications
+### 🥇 Python Essentials 1
+**Issued by:** Cisco Networking Academy & OpenEDG Python Institute  
+🔗 Badge: https://www.credly.com/badges/c585d40a-61ff-4142-9ca3-8da01de69ba1/public_url
+### 🥈 Python Essentials 2
+**Issued by:** Cisco Networking Academy & OpenEDG Python Institute  
+🔗 Badge: https://www.credly.com/badges/a071786b-70a1-48a2-b2cf-4410dc236d2c/public_url
 * AI & Machine Learning Courses
 * Data Science Learning Journey
 
