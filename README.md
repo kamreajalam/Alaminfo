@@ -161,7 +161,7 @@ I'm always interested in collaborating on:
 
 # 📫 Connect With Me
 
-📧 **Email:** [kamreajalam@gmail.com
+📧 **Email:** kamreajalam@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/kamreajalam
 
